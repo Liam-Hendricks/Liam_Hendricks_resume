@@ -1,0 +1,45 @@
+.container{
+    background-image: url('./test.jpg');
+    background-position: top,bottom;
+    width: 1920px;
+    height: 2000px;
+   
+    
+    background-position:top;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1{
+    
+    text-align: center;
+}
+
+h1,h3,h4,h5{
+    
+    font-size: larger;
+    
+}
+.card{
+    margin-top: 10px;
+    opacity: 80%;
+    width: 1084px;
+    
+}
+h6{
+    color: white;
+}
+td{
+    padding: 10px;
+    
+}
+tr{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body{
+    padding: 10px;
+}
+.card-title{
+    font-weight: bold;
+}
